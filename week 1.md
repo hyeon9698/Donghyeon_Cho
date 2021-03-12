@@ -4,7 +4,7 @@
 
 ## AI/ML/DL 이란 무엇인가
 
-![week%201%20349dbb51c9f4438ba127c8e45066efa7/Untitled.png](week%201%20349dbb51c9f4438ba127c8e45066efa7/Untitled.png)
+![image](https://user-images.githubusercontent.com/41141851/110888805-4c7f1d80-8330-11eb-8ef1-8fa5a783b0b3.png)
 
 AI → ML → DL 순으로 발전해나감
 
