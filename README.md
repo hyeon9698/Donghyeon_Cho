@@ -9,7 +9,7 @@
 - Lecture: Youtube 강의
 - Lab: Colaboratory
 
-| Week | Contents(내용) | Lecture(Youtube 강의) | Note&Lab(내용 정리) |
+| Week | Contents (내용) | Lecture (Youtube 강의) | Note&Lab (내용 정리) |
 |:---:|:---:|:---:|:---:|
 | 1 | 인공지능 개요 | [인공지능](https://www.youtube.com/watch?v=ny48cBIKtiY&list=PL1xKqHsVFgvmIAJBy-cbB9zQcnMb6zsT2&index=4) | [Note](https://github.com/hyeon9698/Donghyeon_Cho/blob/main/week_1.ipynb) |
 | 2 | 데이터전처리 | [기계학습](https://www.youtube.com/watch?v=gVdkxfYQtG0&list=PL1xKqHsVFgvnQQY9L4n1MFyy-6eixTekU&index=5) | [Note]() |
