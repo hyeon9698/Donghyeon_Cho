@@ -7,7 +7,7 @@
 
 ## 공부 방법
 - Lecture: Youtube 강의
-- Lab: Colaboratory
+- Lab: Colaboratory(Note)
 
 | Week | Contents (내용) | Lecture (Youtube 강의) | Note&Lab (내용 정리) |
 |:---:|:---:|:---:|:---:|
