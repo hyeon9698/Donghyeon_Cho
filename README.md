@@ -18,7 +18,7 @@
 | 5 | 판별분석 | [기계학습](https://www.youtube.com/watch?v=geIlsP8aPvg&list=PL1xKqHsVFgvnQQY9L4n1MFyy-6eixTekU&index=15) | [Note](https://github.com/hyeon9698/Donghyeon_Cho/blob/main/week_5/05%EC%9E%A5_%ED%8C%90%EB%B3%84%EB%B6%84%EC%84%9D.ipynb) |
 | 6 | 의사결정나무 | [기계학습](https://www.youtube.com/watch?v=CC96qKl6etU&list=PL1xKqHsVFgvnQQY9L4n1MFyy-6eixTekU&index=16) | [Note](https://github.com/hyeon9698/Donghyeon_Cho/tree/main/week_6) |
 | 7 | SVM | [기계학습](https://www.youtube.com/watch?v=7kvkkjkloKQ&list=PL1xKqHsVFgvnQQY9L4n1MFyy-6eixTekU&index=25&t=1737s) | [Note](https://github.com/hyeon9698/Donghyeon_Cho/tree/main/week_7) |
-| 8 | 군집화 | [기계학습] | [Note] |
+| 8 | 군집화 | [기계학습](https://www.youtube.com/watch?v=gGX9YwRcvQc&list=PL1xKqHsVFgvnQQY9L4n1MFyy-6eixTekU&index=29) | [Note](https://github.com/hyeon9698/Donghyeon_Cho/tree/main/week_8) |
 | 9 | 차원축소 | [기계학습] | [Note] |
 | 10 | 교차검증 | [기계학습] | [Note] |
 | 11 | 선형회귀 | [인공지능] | [Note] |
