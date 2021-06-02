@@ -20,7 +20,7 @@
 | 7 | SVM | [기계학습](https://www.youtube.com/watch?v=7kvkkjkloKQ&list=PL1xKqHsVFgvnQQY9L4n1MFyy-6eixTekU&index=25&t=1737s) | [Note](https://github.com/hyeon9698/Donghyeon_Cho/tree/main/week_7) |
 | 8 | 군집화 | [기계학습](https://www.youtube.com/watch?v=gGX9YwRcvQc&list=PL1xKqHsVFgvnQQY9L4n1MFyy-6eixTekU&index=29) | [Note](https://github.com/hyeon9698/Donghyeon_Cho/tree/main/week_8) |
 | 9 | 차원축소 | [기계학습](https://www.youtube.com/watch?v=M_0Lcw2yAM0&list=PL1xKqHsVFgvnQQY9L4n1MFyy-6eixTekU&index=33) | [Note] |
-| 10 | 교차검증 | [기계학습] | [Note] |
+| 10 | 교차검증 | [기계학습](https://www.youtube.com/watch?v=P8-1F5Z1050&list=PL1xKqHsVFgvnQQY9L4n1MFyy-6eixTekU&index=36) | [Note] |
 | 11 | 선형회귀 | [인공지능](https://www.youtube.com/watch?v=4pKWmvUY3FE&list=PL1xKqHsVFgvmIAJBy-cbB9zQcnMb6zsT2&index=7) | [Note] |
 | 12 | 선형분류 | [인공지능] | [Note] |
 | 13 | 뉴럴네트워크 | [인공지능] | [Note] |
